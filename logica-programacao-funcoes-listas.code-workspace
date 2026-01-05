@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../logica-programacao-funcoes-listas-desafio-1"
+		},
+		{
+			"path": "../logica-programacao-mergulhe-programacao-javascript/logica-js-projeto_inicial"
+		},
+		{
+			"path": "../logica-programacao-funcoes-listas-publicar"
+		}
+	],
+	"settings": {
+		"github.copilot.enable": {
+			"*": false,
+			"plaintext": false,
+			"markdown": false,
+			"scminput": false
+		},
+		"liveServer.settings.multiRootWorkspaceName": "logica-programacao-funcoes-listas"
+	}
+}
